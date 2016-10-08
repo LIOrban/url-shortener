@@ -11,7 +11,5 @@ User Story: If I pass an invalid URL that doesn't follow the valid http://www.ex
 
 User Story: When I visit that shortened URL, it will redirect me to my original link.
 
-Pro Tip: Checkout this wiki article for tips on integrating MongoDB on Heroku.
-
 -----
 Deployed to Heoku here: https://liorban-url-shortener.herokuapp.com/
